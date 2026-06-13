@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "garth-one-eye",
+    "name": "Garth One-Eye",
+    "epithet": "the colorless stranger · the planeswalker",
+    "emergence": "spiritual",
+    "moniker": "⟦Garth One-Eye:ARN:22141b⟧",
+    "kind": "character",
+    "group": "stranger"
+  },
+  {
+    "slug": "hammen",
+    "name": "Hammen",
+    "epithet": "the old thief · the guide",
+    "emergence": "natural",
+    "moniker": "⟦Hammen:ARN:d1a9d7⟧",
+    "kind": "character",
+    "group": "stranger"
+  },
+  {
+    "slug": "norreen",
+    "name": "Norreen",
+    "epithet": "the warrior · the ally and love",
+    "emergence": "natural",
+    "moniker": "⟦Norreen:ARN:e4627b⟧",
+    "kind": "character",
+    "group": "stranger"
+  },
+  {
+    "slug": "zarel",
+    "name": "Zarel",
+    "epithet": "the Grand Master of the Arena",
+    "emergence": "electrical",
+    "moniker": "⟦Zarel:ARN:fe7bb3⟧",
+    "kind": "character",
+    "group": "stranger"
+  },
+  {
+    "slug": "kuthuman",
+    "name": "Kuthuman",
+    "epithet": "the ascended planeswalker · the true enemy",
+    "emergence": "spiritual",
+    "moniker": "⟦Kuthuman:ARN:418b82⟧",
+    "kind": "character",
+    "group": "stranger"
+  },
+  {
+    "slug": "estark",
+    "name": "Estark",
+    "epithet": "the city of the Houses",
+    "emergence": "natural",
+    "moniker": "⟦Estark:ARN:bc0e77⟧",
+    "kind": "thread",
+    "group": "arena"
+  },
+  {
+    "slug": "the-arena",
+    "name": "The Arena",
+    "epithet": "the dueling circles · the spectacle",
+    "emergence": "electrical",
+    "moniker": "⟦The Arena:ARN:f67426⟧",
+    "kind": "thread",
+    "group": "arena"
+  },
+  {
+    "slug": "the-four-houses",
+    "name": "The Four Houses",
+    "epithet": "money, women, food, and cheating death",
+    "emergence": "natural",
+    "moniker": "⟦The Four Houses:ARN:9619f6⟧",
+    "kind": "thread",
+    "group": "arena"
+  },
+  {
+    "slug": "the-fifth-house",
+    "name": "The Fifth House",
+    "epithet": "the destroyed past · the revenge",
+    "emergence": "spiritual",
+    "moniker": "⟦The Fifth House:ARN:1d1492⟧",
+    "kind": "thread",
+    "group": "arena"
+  },
+  {
+    "slug": "the-ante",
+    "name": "The Ante",
+    "epithet": "the stakes on the table",
+    "emergence": "electrical",
+    "moniker": "⟦The Ante:ARN:84db1d⟧",
+    "kind": "thread",
+    "group": "arena"
+  },
+  {
+    "slug": "the-magics",
+    "name": "The Magics",
+    "epithet": "mana and the colours, in prose",
+    "emergence": "ethereal",
+    "moniker": "⟦The Magics:ARN:31fc5e⟧",
+    "kind": "thread",
+    "group": "arena"
+  },
+  {
+    "slug": "the-festival",
+    "name": "The Festival",
+    "epithet": "the annual tournament",
+    "emergence": "natural",
+    "moniker": "⟦The Festival:ARN:f57ef8⟧",
+    "kind": "thread",
+    "group": "arena"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "node": "ARN",
+  "name": "ARENA",
+  "moniker": "⟦ARENA:ARN:d5aa0f⟧",
+  "carbon": "arn.carbon.tiff",
+  "silicon": "arn.silicon.png",
+  "governor": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal": "Before Magic had a Multiverse it had Garth — a one-eyed stranger who dueled a corrupt city to ash for revenge, and waited 27 years to become the card he was always made of.",
+  "seal_sha256": "e9cd634b61256d407495d5ecf033fcafed4423d6d8ee68ad9401fc4449173cbb",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
