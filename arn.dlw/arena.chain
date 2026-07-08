@@ -4,6 +4,6 @@ slug  : arena
 seal  : e9cd634b61256d407495d5ecf033fcafed4423d6d8ee68ad9401fc4449173cbb
 prev  : 7f9dae7d3536cc24fa79e68a748b1e63d418c317bbcc829e64d92df972a492bd
 link  : 5898332d26cc02975aa8eb1a38ac4d237c1e0f12af9c6caeb2b39396542839e6
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
